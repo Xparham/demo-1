@@ -1,9 +1,9 @@
 import './App.css';
-import Footer from './footer';
+import Footer from './End';
 import Header from './Header';
 import Hero from './Hero'
 import Midde from './Midde';
-import Footer from './Footer'
+import End from './End'
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <Header/>
       <Hero/>
       <Midde/>
-      <Footer/>
+      <End/>
     </>
   );
 }

@@ -1,4 +1,0 @@
-function LandingPage(){
-    return()
-
-}

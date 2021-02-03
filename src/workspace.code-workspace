@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\my-job-tracker"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my-job-tracker"
+	}
+}
