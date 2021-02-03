@@ -13,8 +13,8 @@ function Middle () {
             </div>
 
             <div class="flex">
-                <img class="text-center w-1/2 h-1/2" src="img/body.jpg" alt="">
-                <img class="w-1/2"src="img/body-3.jpeg" alt="">
+                <img class="text-center w-1/2 h-1/2" src={Body} alt=""></img>
+                <img class="w-1/2"src={Body3} alt=""></img>
             </div>
         
         
